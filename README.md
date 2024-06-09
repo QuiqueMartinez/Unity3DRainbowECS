@@ -1,9 +1,7 @@
 # Unity3DRainbowECS
 Simple study of Unity3D ECS.
 
-Bare example of Unity's Data-Oriented Technology Stack (DOTS). Consists of a cube containing by default an array of 60x60x60 water dropplets.
-According to the light source direction and the camera position, every dropplet will scattter a color to the camera. 
-The contribution of all of these dropplets is seen by the observer as a rainbow.
+This is a basic example of Unity's Data-Oriented Technology Stack (DOTS). It consists of a cube containing an array of 60x60x60 water droplets. Depending on the light source direction and the camera position, each droplet will scatter a color to the camera. The combined contribution of all these droplets appears to the observer as a rainbow.
 
 Testing: 20 fps (216000 instances) on a I7-4770 @3.40 Geforce1080 Gtx
 
